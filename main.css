@@ -9,3 +9,16 @@ img:not(.disabled):hover {
 .disabled {
     filter: grayscale(1);
 }
+
+#title {
+
+    color: chocolate;
+    font-size: 32px;
+    text-align: center;
+    background-color: blanchedalmond
+}
+
+#total-selected {
+
+    text-align: left;
+}
